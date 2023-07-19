@@ -1,0 +1,16 @@
+# JetBrains.
+.idea
+
+# NodeJS.
+dist-types
+node_modules
+packages/*/dist
+packages/*/node_modules
+plugins/*/dist
+plugins/*/node_modules
+
+# Source control.
+.git
+
+# Visual Studio Code.
+.vscode
